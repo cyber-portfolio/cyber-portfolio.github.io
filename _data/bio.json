@@ -6,7 +6,7 @@
     "email": "wizcomputer02@gmail.com",
     "phone": "808-333-4444",
     "website": "https://TheCyberWorld.org",
-    "summary": "Founder and managing principal of CEO Capital Network, an elite business networking platform (ceocapnet.com) and entrepreneur in residence at Venture-Net Partners. Actively engaging CEO Capital Network with the venture capital community on LinkedIn. Venture capital firms use CEO Capital Network to access a curated list of companies with competitive advantages in markets large enough to support a liquidity event. Virtually every North American-based VC fund has at least one managing general partner with access credentials to CEO Capital Network.",
+    "summary": "Founder and managing principal of CryptoCashFast.com, a solution for exchanging cryptocurrency for merchant credits / gift cards and prepaid cards.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -52,6 +52,16 @@
     },
     {
       "name": "artificial intelligence",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "cryptocurrency",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "blockchain",
       "keywords": [
       ]
     }

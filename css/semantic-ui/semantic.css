@@ -23,9 +23,9 @@
              Alex custom
 *******************************/
 
-.alert-top{
- padding: 5px;
- background-color: white;
+.top-alert {
+ background-color: aliceblue;
+    padding: 5px;
 }
 
 

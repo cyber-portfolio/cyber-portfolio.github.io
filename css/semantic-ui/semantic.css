@@ -317,7 +317,7 @@ textarea {
   /* 1 */
   font: inherit;
   /* 2 */
-  margin: 5px;
+  margin: 0;
   /* 3 */
 }
 
@@ -687,7 +687,7 @@ input::selection {
   background: #E0E1E2 none;
   color: rgba(0, 0, 0, 0.6);
   font-family: 'Open Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif;
-  margin: 0em 0.25em 0em 0em;
+  margin: 5px;
   padding: 0.78571429em 1.5em 0.78571429em;
   text-transform: none;
   text-shadow: none;

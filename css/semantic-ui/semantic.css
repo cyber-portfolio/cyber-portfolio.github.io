@@ -687,7 +687,7 @@ input::selection {
   background: #E0E1E2 none;
   color: rgba(0, 0, 0, 0.6);
   font-family: 'Open Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif;
-  margin: 5px;
+  margin: 5px 0;
   padding: 0.78571429em 1.5em 0.78571429em;
   text-transform: none;
   text-shadow: none;

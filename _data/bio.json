@@ -61,25 +61,21 @@
       ]
     },
     {
-      "name": "cryptocurrency",
+      "name": "cryptography",
       "keywords": [
       ]
     },
     {
-      "name": "blockchain development",
+      "name": "blockchain",
       "keywords": [
       ]
     },
     {
       "name": "fintech",
       "keywords": [
+        "dApps",
       ]
     },
-    {
-      "name": "dApps",
-      "keywords": [
-      ]
-    }
   ],
   "skills": [
     {

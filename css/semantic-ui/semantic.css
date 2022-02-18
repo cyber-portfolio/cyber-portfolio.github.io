@@ -317,7 +317,7 @@ textarea {
   /* 1 */
   font: inherit;
   /* 2 */
-  margin: 0;
+  margin: 5px;
   /* 3 */
 }
 

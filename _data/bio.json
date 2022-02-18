@@ -39,6 +39,16 @@
   },
   "interests": [
     {
+      "name": "virtual reality",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "artificial intelligence",
+      "keywords": [
+      ]
+    },
+    {
       "name": "internet of things",
       "keywords": [
         "Arduino",
@@ -47,11 +57,6 @@
     },
     {
       "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
       "keywords": [
       ]
     },

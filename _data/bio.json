@@ -82,18 +82,19 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "MongoDB,
+        "React",
+        "Typescript",
+        "Node.JS",
+        "Express",
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "PC"
         "MacOS",
         "Ubuntu",
         "Git/GitHub",

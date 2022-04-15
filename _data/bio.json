@@ -99,8 +99,9 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Google Cloud",
+        "Linux",
+        "Unity",
       ]
     }
   ],

@@ -9,30 +9,30 @@
     "summary": "Developer and managing principal of CryptoCashFast.com, a solution for spending cryptocurrency on everyday purcahses. CryptoCashFast exchanges cryptocurrency for gift cards, prepaid cards and ecodes.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "90210",
+      "city": "Beverly Hills",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "California"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "TheComputerWiz",
         "url": "https://github.com/TheComputerWiz"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "Allene Lewis",
         "url": "https://www.linkedin.com/in/allene-lewis-9285a9111/"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
+        "username": "cryptocashfast",
         "url": "http://twitter.com/cyptocashfast"
       },
       {
         "network": "instagram",
-        "username": "molly",
+        "username": "cryptocashfast",
         "url": "http://instagram.com/cryptocashfast"
       }
     ]

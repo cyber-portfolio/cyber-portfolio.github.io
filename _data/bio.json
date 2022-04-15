@@ -105,11 +105,11 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "American River College, Sacramento, CA",
+      "area": "Computer Science (expected Spring, 2012)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2008-09-01",
+      "endDate": "2010-09-01",
       "gpa": "",
       "courses": [
       ]
@@ -143,15 +143,15 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "California Coalition For Youth",
+      "website": "https://calyouth.org/",
+      "position": "Counselor",
+      "startDate": "2005-01-01",
+      "endDate": "2011-01-01",
+      "summary": "Youth crisis line counselor, youth advocate",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Provide crisis support for youth and partents",
+        "Teach trainees to provide support to youth in crisis"
       ]
     },
     {

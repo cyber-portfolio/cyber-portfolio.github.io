@@ -155,7 +155,7 @@
       "website": "https://www.cryptocashfast.com",
       "startDate": "2020-06-01",
       "endDate": "2022-03-15",
-      "summary": "Solution for spending cryptocurrency.",
+      "summary": "An automated solution for spending cryptocurrency.",
       "highlights": [
         "Web application, and mobile application for both iOS and Android",
         "ReactJS, Express and NodeJs were just a few of the technologies used.",

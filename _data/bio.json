@@ -130,7 +130,7 @@
       "position": "Front-end developer",
       "website": "http://bitlagoon.com",
       "startDate": "2021-03-01",
-      "endDate": "2022-03-01 (contract work)",
+      "endDate": "2022-03-01",
       "summary": "CSS, object oriented PHP, MVC framework",
       "highlights": [
         "Frontend development for the Mr. Beast impossible game puzzle that was commissioned to BitLagoon",
@@ -143,10 +143,23 @@
       "website": "https://www.oceans11rv.com",
       "startDate": "2020-06-01",
       "endDate": "2022-03-15",
-      "summary": "Develop backend software that tracks sales",
+      "summary": "Develop the frontend UI/ UX and the backend software that tracks sales",
       "highlights": [
         "Web portal for employees only to use, in order to create / manage RV sells",
         "PHP, mySQL, jQuery and Javascript was used to develop the backend, custom developed frontend and backend."
+      ]
+    },
+    {
+      "company": "Crypto Cash Fast",
+      "position": "Application developer",
+      "website": "https://www.oceans11rv.com",
+      "startDate": "2020-06-01",
+      "endDate": "2022-03-15",
+      "summary": "Developed frontend user interface and backend API's.",
+      "highlights": [
+        "Web application, and mobile application for both iOS and Android",
+        "ReactJS, Express and NodeJs were just a few of the technologies used.",
+        "Developed the proprietary REST APIs used to interface with other APIs and applications."
       ]
     }
   ],

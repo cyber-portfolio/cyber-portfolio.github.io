@@ -155,10 +155,24 @@
       "website": "https://www.cryptocashfast.com",
       "startDate": "2020-06-01",
       "endDate": "2022-03-15",
-      "summary": "Developed frontend user interface and backend API's.",
+      "summary": "Solution for spending cryptocurrency. Developed frontend user interface and backend API's.",
       "highlights": [
         "Web application, and mobile application for both iOS and Android",
         "ReactJS, Express and NodeJs were just a few of the technologies used.",
+        "Developed the proprietary REST APIs used to interface with other APIs and applications."
+      ]
+    },
+    {
+      "company": "MakeGayFriends",
+      "position": "MERN developer",
+      "website": "https://www.cryptocashfast.com",
+      "startDate": "2020-06-01",
+      "endDate": "2022-03-15",
+      "summary": "Social networking application that tracks users in realtime. Developed frontend user interface and backend API's.",
+      "highlights": [
+        "Web application, and mobile application for both iOS and Android",
+        "ReactJS, Express and NodeJs were just a few of the technologies used.",
+        "Uses Google Maps to track users in realtime.",
         "Developed the proprietary REST APIs used to interface with other APIs and applications."
       ]
     }

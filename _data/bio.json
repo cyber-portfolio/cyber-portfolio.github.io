@@ -140,7 +140,7 @@
     {
       "company": "Oceans 11 RV Rentals",
       "position": "Full-stack developer",
-      "website": "https://www.oceans11rv.com",
+      "website": "https://oceans11rv.com",
       "startDate": "2020-06-01",
       "endDate": "2022-03-15",
       "summary": "Develop the frontend UI/ UX and the backend software that tracks sales",
@@ -152,7 +152,7 @@
     {
       "company": "Crypto Cash Fast",
       "position": "MERN developer",
-      "website": "https://www.cryptocashfast.com",
+      "website": "https://cryptocashfast.com",
       "startDate": "2021-06-01",
       "endDate": "2022-03-15",
       "summary": "An automated solution for spending cryptocurrency.",
@@ -166,7 +166,7 @@
     {
       "company": "MakeGayFriends",
       "position": "MERN developer",
-      "website": "https://www.makegayfriends.com",
+      "website": "https://makegayfriends.com",
       "startDate": "2021-06-01",
       "endDate": "2022-03-15",
       "summary": "Social networking application that tracks users in realtime",

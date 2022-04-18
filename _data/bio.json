@@ -155,7 +155,7 @@
       "website": "https://www.cryptocashfast.com",
       "startDate": "2020-06-01",
       "endDate": "2022-03-15",
-      "summary": "Solution for spending cryptocurrency. Developed frontend user interface and backend API's.",
+      "summary": "Solution for spending cryptocurrency.",
       "highlights": [
         "Web application, and mobile application for both iOS and Android",
         "ReactJS, Express and NodeJs were just a few of the technologies used.",
@@ -169,7 +169,7 @@
       "website": "https://www.makegayfriends.com",
       "startDate": "2020-06-01",
       "endDate": "2022-03-15",
-      "summary": "Social networking application that tracks users in realtime. Developed frontend user interface and backend API's.",
+      "summary": "Social networking application that tracks users in realtime",
       "highlights": [
         "Web application, and mobile application for both iOS and Android",
         "ReactJS, Express and NodeJs were just a few of the technologies used.",

@@ -151,7 +151,7 @@
     },
     {
       "company": "Crypto Cash Fast",
-      "position": "Application developer",
+      "position": "MERN developer",
       "website": "https://www.cryptocashfast.com",
       "startDate": "2020-06-01",
       "endDate": "2022-03-15",
@@ -159,13 +159,14 @@
       "highlights": [
         "Web application, and mobile application for both iOS and Android",
         "ReactJS, Express and NodeJs were just a few of the technologies used.",
+        "Hosted on Google cloud and I currently manage all deployments and instances.",
         "Developed the proprietary REST APIs used to interface with other APIs and applications."
       ]
     },
     {
       "company": "MakeGayFriends",
       "position": "MERN developer",
-      "website": "https://www.cryptocashfast.com",
+      "website": "https://www.makegayfriends.com",
       "startDate": "2020-06-01",
       "endDate": "2022-03-15",
       "summary": "Social networking application that tracks users in realtime. Developed frontend user interface and backend API's.",

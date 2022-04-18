@@ -127,8 +127,8 @@
   "work": [
     {
       "company": "Bit Lagoon",
-      "position": "Front-End Developer",
-      "website": "http://bitlagoon.com/",
+      "position": "Front-end developer",
+      "website": "http://bitlagoon.com",
       "startDate": "2021-03-01",
       "endDate": "2022-03-01 (contract work)",
       "summary": "CSS, object oriented PHP, MVC framework",
@@ -138,15 +138,15 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Oceans 11 RV Rentals",
+      "position": "Full-stack developer",
+      "website": "https://www.oceans11rv.com",
+      "startDate": "2020-06-01",
+      "endDate": "2022-03-15",
+      "summary": "Develop backend software that tracks sales",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Web portal for employees only to use, in order to create / manage RV sells",
+        "PHP, mySQL, jQuery and Javascript was used to develop the backend, custom developed frontend and backend."
       ]
     }
   ],

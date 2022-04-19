@@ -107,7 +107,7 @@
         "Google Cloud",
         "Unity",
         "Visual Studio Code", 
-        "Android Stuido",
+        "Android Studio",
         "Xcode",
       ]
     }
@@ -146,7 +146,7 @@
       "summary": "Develop the frontend UI/ UX and the backend software that tracks sales",
       "highlights": [
         "Web portal for employees only to use, in order to create / manage RV sells",
-        "PHP, mySQL, jQuery and Javascript was used to develop the backend, custom developed frontend and backend."
+        "PHP, mySQL, jQuery and Javascript were used to develop the backend, custom developed frontend and backend."
       ]
     },
     {
@@ -169,11 +169,11 @@
       "website": "https://makegayfriends.com",
       "startDate": "2021-06-01",
       "endDate": "2022-03-15",
-      "summary": "Social networking application that tracks users in realtime",
+      "summary": "Social networking application that tracks users in real time",
       "highlights": [
         "Web application, and mobile application for both iOS and Android",
         "ReactJS, Express and NodeJs were just a few of the technologies used.",
-        "Uses Google Maps to track users in realtime.",
+        "Uses Google Maps to track users in real time.",
         "Developed the proprietary REST APIs used to interface with other APIs and applications."
       ]
     }

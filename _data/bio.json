@@ -88,10 +88,12 @@
         "MongoDB",
         "React",
         "Typescript",
+        "Solidity",
         "NodeJS",
         "Express",
         "PHP",
         "Python",
+        "Django",
         "HTML5",
         "CSS",
       ]
@@ -109,6 +111,7 @@
         "Visual Studio Code", 
         "Android Studio",
         "Xcode",
+        "Ethereum",
       ]
     }
   ],

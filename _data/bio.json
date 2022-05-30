@@ -141,6 +141,78 @@
       ]
     },
     {
+      "company": "Aqueo",
+      "position": "Full Stack developer",
+      "website": "http://bitlagoon.com",
+      "startDate": "2008-06-01",
+      "endDate": "2012-03-01",
+      "summary": "CSS, object oriented PHP, MVC framework",
+      "highlights": [
+        "Frontend development for the Mr. Beast impossible game puzzle that was commissioned to BitLagoon",
+        "Development of finance software in which I used CSS, PHP OOP, and Javascript in a MVC framework"
+      ]
+    },
+    {
+      "company": "Folsom Buick GMC",
+      "position": "Front-end developer",
+      "website": "http://bitlagoon.com",
+      "startDate": "2012-04-01",
+      "endDate": "2015-03-01",
+      "summary": "CSS, object oriented PHP, MVC framework",
+      "highlights": [
+        "Frontend development for the Mr. Beast impossible game puzzle that was commissioned to BitLagoon",
+        "Development of finance software in which I used CSS, PHP OOP, and Javascript in a MVC framework"
+      ]
+    },
+    {
+      "company": "Market Data Network",
+      "position": "Front-end developer",
+      "website": "http://bitlagoon.com",
+      "startDate": "2015-03-01",
+      "endDate": "2017-03-01",
+      "summary": "CSS, object oriented PHP, MVC framework",
+      "highlights": [
+        "Frontend development for the Mr. Beast impossible game puzzle that was commissioned to BitLagoon",
+        "Development of finance software in which I used CSS, PHP OOP, and Javascript in a MVC framework"
+      ]
+    },
+    {
+      "company": "Baller Biz",
+      "position": "Front-end developer",
+      "website": "http://bitlagoon.com",
+      "startDate": "2017-03-01",
+      "endDate": "2018-03-01",
+      "summary": "CSS, object oriented PHP, MVC framework",
+      "highlights": [
+        "Frontend development for the Mr. Beast impossible game puzzle that was commissioned to BitLagoon",
+        "Development of finance software in which I used CSS, PHP OOP, and Javascript in a MVC framework"
+      ]
+    },
+    {
+      "company": "Venture Net Parnters",
+      "position": "Front-end developer",
+      "website": "http://bitlagoon.com",
+      "startDate": "2018-03-01",
+      "endDate": "present",
+      "summary": "CSS, object oriented PHP, MVC framework",
+      "highlights": [
+        "Frontend development for the Mr. Beast impossible game puzzle that was commissioned to BitLagoon",
+        "Development of finance software in which I used CSS, PHP OOP, and Javascript in a MVC framework"
+      ]
+    },
+    {
+      "company": "Bit Lagoon",
+      "position": "Front-end developer",
+      "website": "http://bitlagoon.com",
+      "startDate": "2021-03-01",
+      "endDate": "2022-03-01",
+      "summary": "CSS, object oriented PHP, MVC framework",
+      "highlights": [
+        "Frontend development for the Mr. Beast impossible game puzzle that was commissioned to BitLagoon",
+        "Development of finance software in which I used CSS, PHP OOP, and Javascript in a MVC framework"
+      ]
+    },
+    {
       "company": "Oceans 11 RV Rentals",
       "position": "Full-stack developer",
       "website": "https://oceans11rv.com",

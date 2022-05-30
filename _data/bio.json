@@ -84,7 +84,7 @@
       "keywords": [
         "Javascript",
         "JQuery",
-        "MySQL",
+        "MySQL (PDO)",
         "MongoDB",
         "React",
         "Typescript",
@@ -134,7 +134,7 @@
       "website": "http://aqueo.com",
       "startDate": "2008-06-01",
       "endDate": "2012-03-01",
-      "summary": "PHP, JavaScript, mySQL, HTML, CSS",
+      "summary": "PHP, JavaScript, MySQL (PDO), HTML, CSS",
       "highlights": [
         "Responsible for the development and design of all the clients they brought on",
         "I developed a total of 15 websites during the duration of my time here. They merge into another company and their duties changed and had no need for a developer."
@@ -146,7 +146,7 @@
       "website": "folsombuickgmc.com",
       "startDate": "2012-04-01",
       "endDate": "2015-03-01",
-      "summary": "PHP, JavaScript, mySQL, HTML, CSS",
+      "summary": "PHP, JavaScript, MySQL (PDO), HTML, CSS",
       "highlights": [
         "Take pictures, update and maintain listings and remove listings for sold vehicles.",
         "I sold a total of 25 cars via online sales during my duration of working here. I moved to LA and had to end our relationship."
@@ -170,7 +170,7 @@
       "website": "http://ballerbiz.com",
       "startDate": "2017-03-01",
       "endDate": "2018-03-01",
-      "summary": "JavaScript, CSS, HTML, mySQL, PHP",
+      "summary": "JavaScript, CSS, HTML, MySQL (PDO), PHP",
       "highlights": [
         "Live auction site for clothing, cars, and shoes. This was a startup company I help develop and market.",
         "I developed the frontend, backend and social presence. BallerBiz was not able to secure funding and could not continue."

@@ -129,56 +129,44 @@
   ],
   "work": [
     {
-      "company": "Bit Lagoon",
-      "position": "Front-end developer",
-      "website": "http://bitlagoon.com",
-      "startDate": "2021-03-01",
-      "endDate": "2022-03-01",
-      "summary": "CSS, object oriented PHP, MVC framework",
-      "highlights": [
-        "Frontend development for the Mr. Beast impossible game puzzle that was commissioned to BitLagoon",
-        "Development of finance software in which I used CSS, PHP OOP, and Javascript in a MVC framework"
-      ]
-    },
-    {
       "company": "Aqueo",
       "position": "Full Stack developer",
-      "website": "http://bitlagoon.com",
+      "website": "http://aqueo.com",
       "startDate": "2008-06-01",
       "endDate": "2012-03-01",
-      "summary": "CSS, object oriented PHP, MVC framework",
+      "summary": "PHP, JavaScript, mySQL, HTML, CSS",
       "highlights": [
-        "Frontend development for the Mr. Beast impossible game puzzle that was commissioned to BitLagoon",
-        "Development of finance software in which I used CSS, PHP OOP, and Javascript in a MVC framework"
+        "Responsible for the development and design of all the clients they brought on",
+        "I developed a total of 15 wesbites during the duration of my time here. They merge into another company and their duties changed and had no need for a developer."
       ]
     },
     {
       "company": "Folsom Buick GMC",
       "position": "Front-end developer",
-      "website": "http://bitlagoon.com",
+      "website": "folsombuickgmc.com",
       "startDate": "2012-04-01",
       "endDate": "2015-03-01",
-      "summary": "CSS, object oriented PHP, MVC framework",
+      "summary": "PHP, JavaScript, mySQL, HTML, CSS",
       "highlights": [
-        "Frontend development for the Mr. Beast impossible game puzzle that was commissioned to BitLagoon",
-        "Development of finance software in which I used CSS, PHP OOP, and Javascript in a MVC framework"
+        "Take pictures, update and maintian listings and remove listing for sold vehicles.",
+        "I sold a total of 25 cars via online sales during my duration of working here. I moved to LA and had to end our relationship."
       ]
     },
     {
       "company": "Market Data Network",
       "position": "Front-end developer",
-      "website": "http://bitlagoon.com",
+      "website": "http://marketdatanetwork.com",
       "startDate": "2015-03-01",
       "endDate": "2017-03-01",
-      "summary": "CSS, object oriented PHP, MVC framework",
+      "summary": "CSS, object oriented PHP, MVC framework, Python",
       "highlights": [
-        "Frontend development for the Mr. Beast impossible game puzzle that was commissioned to BitLagoon",
-        "Development of finance software in which I used CSS, PHP OOP, and Javascript in a MVC framework"
+        "This was a startup research company that delivered live pricing for ecommerce solutions.",
+        "It took me a total of two years to develop their whole platform, I stayed on as a consultant until they desolved their businses."
       ]
     },
     {
-      "company": "Baller Biz",
-      "position": "Front-end developer",
+      "company": "American River College",
+      "position": "Algorithm Design and De",
       "website": "http://bitlagoon.com",
       "startDate": "2017-03-01",
       "endDate": "2018-03-01",
@@ -190,14 +178,14 @@
     },
     {
       "company": "Venture Net Parnters",
-      "position": "Front-end developer",
-      "website": "http://bitlagoon.com",
+      "position": "Consultant",
+      "website": "http://venture-net.partners/",
       "startDate": "2018-03-01",
-      "endDate": "present",
-      "summary": "CSS, object oriented PHP, MVC framework",
+      "endDate": "2022-02-01",
+      "summary": "LAMP, MERN, MEAN",
       "highlights": [
-        "Frontend development for the Mr. Beast impossible game puzzle that was commissioned to BitLagoon",
-        "Development of finance software in which I used CSS, PHP OOP, and Javascript in a MVC framework"
+        "I over look all of the projects they are interested in pursuing and the source code.",
+        "After overing source code, I give them a perspective on how far along the project is and long term scope on development needs."
       ]
     },
     {

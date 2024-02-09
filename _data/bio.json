@@ -114,19 +114,31 @@
       ]
     },
     {
-      "company": "MGF",
-      "position": "MERN developer",
-      "website": "https://makegayfriends.com",
-      "startDate": "2021-06-01",
-      "endDate": "2022-03-15",
-      "summary": "Social networking application that tracks users in real time",
+      "company": "Bit Lagoon",
+      "position": "Front End",
+      "website": "https://bitlagoon.com",
+      "startDate": "2022-01-01",
+      "endDate": "2023-01-01",
+      "summary": "Crowd funding platform for your grandparents",
       "highlights": [
-        "Web application, and mobile application for both iOS and Android",
-        "ReactJS, Express and NodeJs were just a few of the technologies used.",
-        "Uses Google Maps to track users in real time.",
-        "Developed the proprietary REST APIs used to interface with other APIs and applications."
+        "CSS, object oriented PHP, MVC framework",
+        "Frontend development for the Mr. Beast impossible game puzzle that was commissioned to BitLagoon",
+        "Development of finance software using CSS, PHP OOP, and Javascript in a MVC framework",
       ]
-    }
+    },
+    {
+      "company": "Oceans 11 RV Rentals",
+      "position": "Full Stack",
+      "website": "https://oceans11rv.com",
+      "startDate": "2022-01-01",
+      "endDate": "2023-01-01",
+      "summary": "RV management company",
+      "highlights": [
+        "Develop the frontend UI/ UX and the backend software that tracks sales",
+        "Web portal for employees only, in order to create / manage RV sells",
+        "PHP, mySQL, jQuery and Javascript were used to develop the backend, custom developed frontend and backend.",
+      ]
+    },
   ],
   "volunteer": [
     {

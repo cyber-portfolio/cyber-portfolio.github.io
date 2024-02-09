@@ -139,6 +139,35 @@
         "PHP, mySQL, jQuery and Javascript were used to develop the backend, custom developed frontend and backend.",
       ]
     },
+    {
+      "company": "Crypto Cash Fast, LLC",
+      "position": "Full Stack",
+      "website": "https://cryptocashfast.com",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Cryptocurrency payment platform",
+      "highlights": [
+        "An automated solution for spending cryptocurrency",
+        "Web application and mobile application for both iOS and Android",
+        "ReactJS, Express and NodeJs for backend ",
+        "Currently managing all deployments and instances hosted on Google cloud", 
+        "Developed the proprietary REST APIs used to interface with other APIs and applications",
+      ]
+    },
+    {
+      "company": "MakeGayFriends.com",
+      "position": "Full Stack",
+      "website": "https://makegayfriends.com",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Social networking application that tracks users in real time ",
+      "highlights": [
+        "Web application and mobile application for both iOS and Android",
+        "ReactJS, Express and NodeJs for backend ",
+        "Currently managing all deployments and instances hosted on Google cloud",
+        "Developed the proprietary REST APIs used to interface with other APIs and applications",
+      ]
+    },
   ],
   "volunteer": [
     {

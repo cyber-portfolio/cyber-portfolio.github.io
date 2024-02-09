@@ -37,41 +37,30 @@
   },
   "interests": [
     {
-      "name": "virtual reality",
+      "name": "automation",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "AI",
       "keywords": [
       ]
     },
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "computer vision",
       "keywords": [
       ]
     },
     {
-      "name": "cryptography",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "blockchain",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "fintech",
+      "name": "deep learning",
       "keywords": [
         "dApps",
+      ]
+    },
+    {
+      "name": "GUI / UX / UI",
+      "keywords": [
+        "frontend",
       ]
     },
   ],
